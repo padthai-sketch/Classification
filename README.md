@@ -4,3 +4,26 @@ In this assignment, I was assigned to build and evaluate several machine-learnin
 
 1. Resampling
 2. Ensemble Learning
+
+## Resampling
+### Which model had the best balanced accuracy score?
+#### > SMOTEENN Model 
+
+### Which model had the best recall score?
+#### > SMOTEENN Model 
+
+### Which model had the best geometric mean score?
+#### > SMOTEENN Model 
+
+## Ensembling
+### Which model had the best balanced accuracy score?
+#### > Easy Ensemble Classsifier
+
+### Which model had the best recall score?
+#### > Easy Ensemble Classsifier
+
+### Which model had the best geometric mean score?
+#### > Easy Ensemble Classsifier
+
+### What are the top three features?
+#### > Precision, Recall and F1
