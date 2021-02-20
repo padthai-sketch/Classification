@@ -1,11 +1,9 @@
 # Risky Business (Assignment)
 
-In this assignment, I was assigned to build and evaluate several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), so you will need to employ different techniques for training and evaluating models with imbalanced classes. You will use the imbalanced-learn and Scikit-learn libraries to build and evaluate models using the two following techniques:
+In this assignment, I was assigned to build and evaluate several machine-learning models to predict credit risk using free data from LendingClub. Credit risk is an inherently imbalanced classification problem (the number of good loans is much larger than the number of at-risk loans), so you will need to employ different techniques for training and evaluating models with imbalanced classes. You will use the imbalanced-learn and Scikit-learn libraries to build and evaluate models using Resampling and Ensembling technique:
 
-1. Resampling
-2. Ensemble Learning
+## Summary for Resampling Notebook
 
-## Resampling
 ### Which model had the best balanced accuracy score?
 #### > SMOTEENN Model 
 
@@ -15,7 +13,7 @@ In this assignment, I was assigned to build and evaluate several machine-learnin
 ### Which model had the best geometric mean score?
 #### > SMOTEENN Model 
 
-## Ensembling
+## Summary for Ensembling Notebook
 ### Which model had the best balanced accuracy score?
 #### > Easy Ensemble Classsifier
 
